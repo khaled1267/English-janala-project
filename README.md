@@ -24,7 +24,7 @@
 
 # 🚀 Live Links
 
-🌐 **Live Demo:** [[আপনার লাইভ সাইট লিংক এখানে দিন]](https://english-janala-project-green.vercel.app/)
+🌐 **Live Demo:**(https://english-janala-project-green.vercel.app/)
 
 💻 **GitHub Repository:** [https://github.com/khaled1267/English-janala-project](https://github.com/khaled1267/English-janala-project)
 
