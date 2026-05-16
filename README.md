@@ -39,9 +39,8 @@
 - **React Router DOM** (Multi-page navigation)
 - **AOS / Framer Motion** (For scroll animations)
 
-## Backend & Storage
-- **Firebase** (Authentication & Database)
-- **Axios** (Data fetching)
+
+-
 
 ---
 
