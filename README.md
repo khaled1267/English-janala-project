@@ -15,19 +15,21 @@
 
 ---
 
+
 ## 📌 Project Overview
 
-**English Janala** (ইংরেজি জানালা) একটি আধুনিক এডুকেশনাল প্ল্যাটফর্ম যা বাংলা ভাষাভাষী মানুষের ইংরেজি শেখার প্রক্রিয়াকে সহজ এবং আনন্দদায়ক করার জন্য তৈরি করা হয়েছে। এই প্ল্যাটফর্মে ব্যবহারকারীরা বিভিন্ন কোর্স, গ্রামার লেসন এবং ভোকাবুলারি রিসোর্স এক জায়গায় পাবেন। এটি একটি ইন্টারঅ্যাক্টিভ লার্নিং ইউজার ইন্টারফেস প্রদান করে যা শিক্ষার্থীদের শেখার আগ্রহ বাড়িয়ে দেয়।
+**English Janala** is a modern educational platform built to make English learning simple and fun for Bengali speakers. Bringing courses, grammar lessons, and vocabulary resources into a single hub, it offers an interactive UI designed to keep learners motivated and engaged.
 
 ---
 
 # 🚀 Live Links
 
-🌐 **Live Demo:** [আপনার লাইভ সাইট লিংক এখানে দিন]
+🌐 **Live Demo:** [[আপনার লাইভ সাইট লিংক এখানে দিন]](https://english-janala-project-green.vercel.app/)
 
 💻 **GitHub Repository:** [https://github.com/khaled1267/English-janala-project](https://github.com/khaled1267/English-janala-project)
 
 ---
+ 
 
 # 🛠️ Technologies Used
 
